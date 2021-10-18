@@ -1,0 +1,12 @@
+aiohttp
+requests
+youtube-dl
+pyrogram==1.0.7
+Pillow
+hachoir
+numpy
+beautifulsoup4
+TgCrypto
+sqlalchemy==1.3.23
+psycopg2-binary
+feedparser
